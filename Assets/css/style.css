@@ -6,6 +6,10 @@
     color: #ffffff;
 }
 
-.navbar-light .navbar-brand {
+.navbar-light{
     color: #ffffff;
+}
+
+.h1 {
+    color: white;
 }
