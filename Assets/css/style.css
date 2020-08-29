@@ -17,3 +17,14 @@
 body {
     background-image: url("../Images/ignasi_pattern_s.png");
 }
+
+.aboutme-background {
+    background-color: white;
+    padding: 15px;
+    margin-top: 25px;
+}
+
+footer {
+    background-color: grey;
+    padding: 15px;
+}
